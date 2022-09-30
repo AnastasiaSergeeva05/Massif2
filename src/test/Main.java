@@ -22,7 +22,7 @@ public class Main {
 
             sum = pay / 30;
         }
-
+//j
 
         System.out.println(Arrays.toString(arr));
         System.out.println("«Сумма трат за месяц составила " + pay + " рублей»");
